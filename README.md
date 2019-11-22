@@ -9,7 +9,7 @@ A [babette example](https://github.com/richelbilderbeek/babette_examples).
 
 ## Example #8: Strict clock with a known clock rate
 
-![Example #8: Strict clock with a known clock rate](strict_clock_rate_0_5_2_4.png)
+![Example #8: Strict clock with a known clock rate](pics/strict_clock_rate_0_5_2_4.png)
 
 ```{r}
 posterior <- bbt_run(
